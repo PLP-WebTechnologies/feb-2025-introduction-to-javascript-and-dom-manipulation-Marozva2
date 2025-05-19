@@ -1,0 +1,37 @@
+body {
+  font-family: Georgia, serif;
+  background-color: #f5f5dc;
+  margin: 0;
+  padding: 1rem;
+}
+
+header,
+footer {
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  padding: 1rem 0;
+}
+
+main {
+  padding: 1rem;
+}
+
+button {
+  margin: 0.5rem 0.25rem;
+  padding: 0.5rem 1rem;
+  font-size: 1rem;
+  cursor: pointer;
+}
+
+#style-paragraph {
+  color: #444;
+  font-style: italic;
+}
+
+.dynamic-box {
+  margin-top: 1rem;
+  padding: 1rem;
+  background-color: #e0e0e0;
+  border: 2px dashed #666;
+}
